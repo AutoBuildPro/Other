@@ -1,0 +1,7 @@
+if readInteger("TuyChon_DSD") == 0 then
+  --DSD NgTrHai
+  DSD = {}
+else
+  --DSD NgTrHieu
+  DSD = {}
+end
