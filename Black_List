@@ -1,6 +1,6 @@
 if readInteger("TuyChon_DSD") == 0 then
   --DSD NgTrHai
-  DSD = {}
+  DSD = {1146572554}
 else
   --DSD NgTrHieu
   DSD = {}
