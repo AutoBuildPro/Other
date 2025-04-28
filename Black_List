@@ -3,5 +3,5 @@ if readInteger("TuyChon_DSD") == 0 then
   DSD = {1146572554,1263770375}
 else
   --DSD NgTrHieu
-  DSD = {1131643439,1263770375}
+  DSD = {1131643439,1263770375,1109155885}
 end
